@@ -6,6 +6,9 @@
 ## Temas abordados no video:
 - Estrutura Básica de uma API em ASP.NET Core
 - O que é uma API
+- Criando Entidade
+- Como usar Entity Framework
+- Criar banco de dados e fazer simples CRUD
 - Modelos e DTOs
 - Métodos HTTP
 - Códigos de Status HTTP
