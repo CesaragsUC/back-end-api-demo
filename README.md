@@ -1,4 +1,4 @@
-# back-end-api-demo
+# Template base API Net Core 8
 ## Esse repositório é ferente ao video que esta disponivel no meu canal, onde mostro para iniciantes em ASP.Net, como criar uma API em .NET Core 8.
 # Você pode ver os videos aqui: [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/playlist?list=PL3U_6xcQ61i9N2it7IQVeajUoAIj1J-WP)
 ## Temas abordados no video:
